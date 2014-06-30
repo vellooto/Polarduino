@@ -6,7 +6,6 @@ boolean sensorState;
 boolean sensorLastState;
 unsigned long openTime;
 
-
 void setup() {
   
   pinMode(photoDiode, INPUT);

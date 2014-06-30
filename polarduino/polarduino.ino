@@ -807,7 +807,6 @@ void loop() {
 
   buttonTwoLastState = buttonTwoState;
 
-
   // Main run.
 
   // If Mode is Auto:
