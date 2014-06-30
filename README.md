@@ -24,5 +24,10 @@ Actually only manual mode is fully working, for the auto operation i've still go
 calibrate the light sensor.
 
 
+I also included a simple sketch that i used to test the actual shutter speed for
+calibration. For this purpose i used a small photodiode (BPW34) and a 2€ laser pointer.
+
+
+
 Sorry if the code is bad, but i'm not a programmer and this is one of my very first C
 projects.
